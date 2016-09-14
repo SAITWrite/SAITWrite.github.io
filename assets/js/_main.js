@@ -54,7 +54,7 @@ $(document).ready(function(e) {
     var header = $('.header-menu');
     var scroll = $(window).scrollTop();
     if(scroll > 300){
-      header.attr('class', 'header-menu header-menu-overflow');
+      header.attr('class', 'header-menu header-menu-top');
     } else {
       header.attr('class', 'header-menu header-menu-top');
     }
