@@ -27,7 +27,7 @@ menu:
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: '/Archive'
+  - title: 'Archive'
     url: '/archive'
 # - title: 'Favorites'
 #   url: '#'
